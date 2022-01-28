@@ -1,4 +1,4 @@
-# sorrento-by-the-sea
+# Sorrento By The Sea
 
 Made using HTML5 and CSS3
 
